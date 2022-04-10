@@ -1,6 +1,5 @@
-# Jet Lee
-* Made kung-fu
-* Learned kung-fu
+# Makhmut Arset
+* Continued working on front-end of app
 # Jacky Chan
 * Learn kung-fu
 * Invented kung-fu
