@@ -1,6 +1,6 @@
 # Jet Lee
-* Made kung-fu
-* Learned kung-fu
+* Found out further risks
+* Thought about further works
 # Jacky Chan
 * Learn kung-fu
 * Invented kung-fu
