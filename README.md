@@ -1,6 +1,6 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Sat Zhakhsybayev** (*180103057*)-  (GitHub account: *180103057*)
++ **Sat Zhakhsybayev** (*180103057*)- Data Analyst (GitHub account: *180103057*)
 + **Bakhmukhamed Kozhakhmet** (*180103219*) - Backend Developer (GitHub account: *Bakhmuhamed*)
 + **Arset Makhmut** (*180103262*) - Frontend Developer (GitHub account: *ArsetArsen*)
 +  **Aidana Sathan** (*180103115*) - UI-UX Designer (GitHub account: *aidonna*)
