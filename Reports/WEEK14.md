@@ -1,6 +1,5 @@
 # Jet Lee
-* Made kung-fu
-* Learned kung-fu
+* Worked on documentation
 # Jacky Chan
 * Learn kung-fu
 * Invented kung-fu
