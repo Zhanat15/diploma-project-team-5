@@ -14,6 +14,8 @@ StudyCards is android application for learning foreign words, idioms by cards an
 | Research alternatives Duolingo,Lingualeo,Memrise.
 
 ## Goals
+Our main goal is to help people learn new languages. 
+
 
 ## Technologies
 In our project we use  **Figma**,**Firebase**,**Android Studio Kotlin**
@@ -31,7 +33,6 @@ We will have following pages:
 
 
 ## Goals
-* Our main goal is to help people learn new languages. 
 *We want to create a mobile application that will help users improve their skills in memorizing foreign words and phrases.
 * We focused on developing learning modules with clear controls and direct evidence of progress. Another aspect that we take into account is the integration of the game component to increase the attractiveness of learning.
 * We think that in childhood, many of us heard from our teachers and parents that we need to learn foreign languages, that this will come in handy in the future. Most of us did not listen to their words, and did not pay attention.
