@@ -42,6 +42,7 @@ Now, when they are growing up, they understand that there are many pluses than m
 ## User Personas
 *Azhar.* 
 Gender: Female;
+Gender: Female;
 Age: 21;
 Role:  student; 
 Location: Almaty city; 
