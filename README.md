@@ -33,7 +33,7 @@ We will have following pages:
 
 
 ## Goals
-*We want to create a mobile application that will help users improve their skills in memorizing foreign words and phrases.
+* We want to create a mobile application that will help users improve their skills in memorizing foreign words and phrases.
 * We focused on developing learning modules with clear controls and direct evidence of progress. Another aspect that we take into account is the integration of the game component to increase the attractiveness of learning.
 * We think that in childhood, many of us heard from our teachers and parents that we need to learn foreign languages, that this will come in handy in the future. Most of us did not listen to their words, and did not pay attention.
 Now, when they are growing up, they understand that there are many pluses than minuses in the knowledge of foreign languages. Therefore, we hope that our application will help such people in learning a new foreign language.
@@ -70,6 +70,7 @@ After watching a lot of series, she fell in love with this country and wants to 
 ## Sitemap, Page descriptions
 
 *Display sitemap here*
+
 
 ## Non-Functional requirements
 *Mobile application must be implemented under the platform
