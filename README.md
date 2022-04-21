@@ -70,6 +70,8 @@ After watching a lot of series, she fell in love with this country and wants to 
 ## Sitemap, Page descriptions
 
 *Display sitemap here*
+![Image alt](https://github.com/{aidonna}/{repository}/raw/{branch}/{path}/sitemap.png)
+
 
 
 ## Non-Functional requirements
