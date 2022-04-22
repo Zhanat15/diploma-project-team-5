@@ -1,6 +1,6 @@
 > This folders will contain your reports
 ## Week by week plan
-|...|Makhmut Arset|Aidana Satzhan|
+|...|Makhmut Arset|Aidana Satzhan|Zhanat Abdussakhina
 |---|---|---|
 |Week #3|Building a team|Understanding and analyzing the project.Thinking about the project logic and idea|
 |Week #4|Choose topic|Discuss with team members about methods and project's features|
@@ -14,4 +14,4 @@
 |Week #12|Show MVP of application to friends, get their reviews, advices, suggestions and finalize if it needs|Start drawing memorable,simple,distictive and appropriate logo|
 |Week #13|Finalizing application and thinking about further risks and works|Making analytics on user preferences.Making user research and storing all interviews to audio/video recording and uploading it to YouTube |
 |Week #14|Work on documentation|Prepare to the Final presentation and testing and suggest interfaces for correction if there are  errors |
-|Week #15|Prepare for final presentation|Checking project documentation and final presentation design|
+|Week #15|Prepare for final presentation|Checking project documentation and final presentation design|dhdjdk
