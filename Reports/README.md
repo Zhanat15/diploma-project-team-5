@@ -1,6 +1,6 @@
 > This folders will contain your reports
 ## Week by week plan
-|...|Makhmut Arset|Aidana Satzhan|
+|...|Makhmut Arset|Aidana Satzhan|Zhanat Abdussakhina
 |---|---|---|
 |Week #3|Building a team|Understanding and analyzing the project.Thinking about the project logic and idea|
 |Week #4|Choose topic|Discuss with team members about methods and project's features|
